@@ -28,7 +28,7 @@ Documentul este trimis pe email la ordinul@protonmail.com impreuna cu detaliile 
 
 ### 2. Verificarea Inscrierii
 
-In urma trimiterii manifestului propriu si declararii intentiei de a deveni un membru verificat, cererea ta este verificata de Ordin si colaboratorii open-source, fiind facuta disponibila public in folderul [aplicanti](https://github.com/ordinul/manifesto/tree/master/aplicanti) si supusa dezbaterii publice *(daca manifestul propriu corespunde eticii comune, daca reprezentatul prezinta incredere, daca exista opuneri, etc.) - [EXEMPLU](https://github.com/ordinul/manifesto/tree/master/aplicanti/exemplu.md)*
+In urma trimiterii manifestului propriu si declararii intentiei de a deveni un membru verificat, cererea ta este verificata de Ordin si colaboratorii open-source, fiind facuta disponibila public in folderul [aplicanti](https://github.com/ordinul/manifesto/tree/master/aplicanti) si supusa dezbaterii publice *(daca manifestul propriu corespunde eticii comune, daca reprezentatul prezinta incredere, daca exista opuneri, etc.) - [EXEMPLU](https://github.com/ordinul/manifesto/tree/master/aplicanti/.exemplu.md)*
 
 ### 3. Alaturarea in [Comunitate]()
 
