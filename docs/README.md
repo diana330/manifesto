@@ -7,4 +7,4 @@ Un manifesto open-source pentru ghidarea si reprezentarea etica a creativilor ro
 
 Acest manifesto isi propune sa reflecte mentalitatea celor ce contribuie la realizarea lui si sa serveasca drept declaratie publica a metodelor creativilor ce il adopta - *chit ca vorbim de indivizi, comunitati sau societati*.
 
-O initiativa a [Ordinului]() *- o comunitate colaborativa de artisti, antreprenori si vizionari.*
+O initiativa a [Ordinului](https://ordinul.cf) *- o comunitate colaborativa de artisti, antreprenori si vizionari.*
