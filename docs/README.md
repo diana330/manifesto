@@ -29,7 +29,7 @@ Caracterul open-source, si disponibilitatea lui pe GitHub, transforma acest mani
 - Toata lumea detine puterea de a testa atitudinea si corectitudinea membrilor verficati *(de [aici](https://github.com/ordinul/manifesto/tree/master/membri) sau listati [aici](https://github.com/ordinul/manifesto/blob/master/docs/MEMBERS.md))* si de a ridica sugestii, dezbateri sau opuneri in pagina dedicata `Issues`;
 - Un [server Discord](https://discord.gg/PvGUY7S) de chat text/audio este disponibil oricui are placerea de a se alatura, pentru discutii libere, colaborari, dezbateri sau pur si simplu shitposting de cele mai dank meme-uri din viitor.
 
-Limita e cerul, sincer. Ajuta-te [sa scriem despre](https://github.com/ordinul/manifesto/blob/master/docs/CONTRIBUTING.md) contributia la acest proiect si lasa-ti amprenta.
+Limita e cerul, sincer. Ajuta-ne [sa scriem despre](https://github.com/ordinul/manifesto/blob/master/docs/CONTRIBUTING.md) contributia la acest proiect si lasa-ti amprenta.
 
 ## File-tree
 
