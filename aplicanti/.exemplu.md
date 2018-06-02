@@ -4,14 +4,14 @@ Lixivium Arcana este un brand DIY de vaping cu o tematica oculta ce pune accent 
 
 # Identificare
 
-- Nume: `Lixivium Arcana *(aka. Arcanele)*` 
-- Website: `[arcanele.ro](https://arcanele.ro)`
-- Portofoliu: `[Magazin](https://arcanele.ro/magazin/)`
-- Social Media: `[Facebook](https://facebook.com/lixiarcana), [Discord](https://discord.gg/gZkQf2x)`
+- Nume: `Lixivium Arcana` *(aka. Arcanele)* 
+- Website: [arcanele.ro](https://arcanele.ro)
+- Portofoliu: [Magazin](https://arcanele.ro/magazin/)
+- Social Media: [Facebook](https://facebook.com/lixiarcana), [Discord](https://discord.gg/gZkQf2x)
 
 # Manifest
 
-Locatie publica: [Website](https://arcanele.ro/despre/manifesto/).
+Locatie publica: [Website](https://arcanele.ro/despre/manifesto/)
 
 ## Punctul 1 - Brand Romanesc
 
