@@ -10,6 +10,18 @@ O lucrare colaborativa ce reprezinta integritatea unui anumit set de valori la c
 
 ## Continut
 
-### Punctul 1
+### 1. Ordinul
 
-*Haide sa-l scriem!*
+1. Ordinul este o entitate decentralizata;
+2. Toata activitatea si informatia este supusa dezbaterii si modificarii libere;
+3. Ordinul nu se poate implica niciodata in activitati cu caracter politic;
+4. Confidentialitatea membrilor si dreptul la o viata off-grid este o prioritate;
+5. Toti oamenii sunt egali indiferent de origini, culturi, domeniul activitatii, orientari politice/religioase/sexuale sau alte etichete in care nu credem;
+6. Niciodata Ordinul nu isi poate exercita puterea sau influenta in activitatea membrilor sau non-membrilor.
+
+### 2. Generalitati
+
+1. Prioritatea este comunitatea si dezvoltarea ei.
+2. Cat nu ranesti pe nimeni, fa tot ce te face fericit.
+
+*(Ar trebui sa fie un start bun. Acum apasa `edit`.)*
