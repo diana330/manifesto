@@ -5,7 +5,7 @@ Un manifesto open-source pentru ghidarea si reprezentarea etica a creativilor ro
 
 ## Despre
 
-Acest manifesto isi propune sa reflecte mentalitatea celor ce contribuie la realizarea lui si sa serveasca drept declaratie publica a metodelor creativilor ce il adopta - *chit ca vorbim de indivizi, comunitati sau societati*.
+Acest manifesto isi propune sa reflecte mentalitatea celor ce contribuie la realizarea lui si sa serveasca drept declaratie publica a metodelor si a intentiilor creativilor ce il adopta - *chit ca vorbim de indivizi, comunitati sau societati*.
 
 ### Puterea
 
@@ -14,6 +14,17 @@ Acest manifesto isi propune sa reflecte mentalitatea celor ce contribuie la real
 ### Scopul
 
 *(De redactat)*
+
+### Limite
+
+Pentru ca acest proiect sa reflecte principiile universale ale creativilor contemporani, si pentru a nu deveni un document exclusivist si/sau restrictiv, limite specifice trebuiesc consemnate:
+
+- Manifestul nu se poate implica in standardizarea stilului operelor sau in modelarea practicii creativului, asemeni manifestelor specifice curentelor artistice *(ex. Manifestul Dada, Manifestul Culturii Industriale, etc.)*;
+- Manifestul nu poate deveni o forma de licenta creativa *(ex. MIT, Creative Commons, etc.)*, dar poate deveni un blazon al comunitatilor;
+- Manifestul nu poate aborda capabilitatea creativului de a valorifica opera, indiferent de originea, destinatia si statutul acesteia, desi se poate dezbate etica din spatele metodelor;
+- Manifestul nu poate reprezenta, sub nicio forma, un mijloc de blocare a creativului intr-un ecosistem si/sau de alterare a liberului arbitru;
+- Manifestul si generatorii acestuia *(ex. Ordinul si colaboratorii open-source)* nu pot cere/presupune/sugera implicatii materiale *(de orice natura)* pentru dobandirea de beneficii in afiliere *(ex. aprobarea si dezbaterea membrilor verificati sunt procese coordonate si dependente de comunitate)*;
+- Manifestul nu poate interzice nimanui sa se raporteze *(sau sa faca referinta)* la acesta desi isi poate alege membrii promovati *(verificati)* prin ochii comunitatii.
 
 ## Manifestul
 
